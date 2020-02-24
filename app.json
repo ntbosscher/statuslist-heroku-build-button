@@ -1,0 +1,14 @@
+{
+    "name": "StatusList",
+    "description": "A quick way to add the StatusList addon to your project",
+    "repository": "https://github.com/ntbosscher/statuslist-heroku-build-button",
+    "logo": "https://github.com/ntbosscher/statuslist-heroku-build-button/logo.png",
+    "keywords": ["status", "status page", "monitor", "service provider", "provider", "http"],
+    "addon": [
+        "statuslist",
+        {
+        "plan": "test",
+        "as": "StatusList Service Provider Monitoring"
+        }
+    ]
+  }

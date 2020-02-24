@@ -10,5 +10,8 @@
         "plan": "test",
         "as": "StatusList Service Provider Monitoring"
         }
-    ]
+    ],
+    "buildpacks": [{
+        "url": "heroku/ruby"
+    }]
   }

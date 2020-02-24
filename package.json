@@ -17,5 +17,6 @@
     "url": "https://github.com/ntbosscher/statuslist-heroku-build-button/issues"
   },
   "homepage": "https://github.com/ntbosscher/statuslist-heroku-build-button#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {}
 }

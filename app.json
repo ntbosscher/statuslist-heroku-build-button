@@ -1,6 +1,6 @@
 {
     "name": "StatusList",
-    "description": "A quick way to add the StatusList addon to your project",
+    "description": "A quick way to create a StatusList addon project",
     "repository": "https://github.com/ntbosscher/statuslist-heroku-build-button",
     "logo": "https://raw.githubusercontent.com/ntbosscher/statuslist-heroku-build-button/master/logo.png",
     "keywords": ["status", "status page", "monitor", "service provider", "provider", "http"],

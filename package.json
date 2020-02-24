@@ -1,0 +1,19 @@
+{
+  "name": "statuslist-heroku-build-button",
+  "version": "1.0.0",
+  "description": "A quick way to create a StatusList addon project",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntbosscher/statuslist-heroku-build-button.git"
+  },
+  "author": "Nate Bosscher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntbosscher/statuslist-heroku-build-button/issues"
+  },
+  "homepage": "https://github.com/ntbosscher/statuslist-heroku-build-button#readme"
+}

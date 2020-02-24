@@ -4,7 +4,8 @@
   "description": "A quick way to create a StatusList addon project",
   "main": "none",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/ntbosscher/statuslist-heroku-build-button/issues"
   },
-  "homepage": "https://github.com/ntbosscher/statuslist-heroku-build-button#readme"
+  "homepage": "https://github.com/ntbosscher/statuslist-heroku-build-button#readme",
+  "dependencies": {}
 }
